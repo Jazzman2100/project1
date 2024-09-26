@@ -30,7 +30,7 @@ def damped_SHO(m, k, b, t, x, v, a, t_end, dt):
         t = t + dt
     return time_array, position_array, velocity_array, acceleration_array
 
-print(damped_SHO(0.05, 200, 0.1, 0, 0, 5, 0, 10, 0.1))
+print(damped_SHO(0.05, 20, 0.1, 0, 0, 5, 0, 10, 0.1))
 
 plt.plot(time_array, position_array)
 plt.title("Position vs Time")
