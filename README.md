@@ -24,3 +24,5 @@ pip install -r requirements.txt
 ```bash
 sho_run
 coulomb_force_run
+```
+Then enter the corresponding parameters to get the results. 
