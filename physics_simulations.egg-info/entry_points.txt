@@ -1,3 +1,0 @@
-[console_scripts]
-coulomb_force_run = coulomb.coulomb_force_run:main
-sho_run = sho.sho_run:main

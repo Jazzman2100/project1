@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: physics_simulations
-Version: 0.1
-Requires-Dist: numpy
-Requires-Dist: scipy
-Requires-Dist: matplotlib
