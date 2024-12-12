@@ -16,9 +16,9 @@ This project contains Python scripts for solving two physics problems using nume
 
 To install the required dependencies, use:
 
-```bash
+```
 pip install -r requirements.txt
-
+```
 ## How to run the code
 
 ```bash
