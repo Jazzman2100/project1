@@ -21,3 +21,6 @@ pip install -r requirements.txt
 
 ## How to run the code
 
+```bash
+sho_run
+coulomb_force_run
